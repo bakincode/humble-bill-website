@@ -1,0 +1,31 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.background-color{
+	background: #ff0000;
+}
+
+.large-phrase{
+	color: #00cdec;
+}
+
+.download-button{
+	background: #ff0000;
+	color: white;
+}
+
+.download-button:hover{
+	background: #ef5350
+}
